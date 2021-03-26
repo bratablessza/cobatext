@@ -5,4 +5,4 @@ goals kecil untuk pribadi :
   -punya restoran sendiri
   -ini udah di pull merge dan hapus brench
   - baca buku tentang programming
-  
+  -nonton tutorial di YT tentang programming
