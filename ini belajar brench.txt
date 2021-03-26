@@ -4,3 +4,4 @@ goals kecil untuk pribadi :
   -beli mobil
   -beli rumah dan kos kosan
   -punya restoran sendiri
+  -ini udah di pull merge dan hapus brench
